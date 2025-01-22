@@ -7,6 +7,7 @@
 ![Screenshot (67)](https://github.com/user-attachments/assets/31bfdd05-2c80-48bf-b2e0-ecf3cf812326)
 
 ### A. Quản lý
+![image](https://github.com/user-attachments/assets/b4c08991-024a-4c04-918f-f9b02e477d16)
 
 1. **Quản lý Vé**
     - Chức năng thêm, sửa hoặc xóa thông tin vé.
@@ -35,5 +36,7 @@
 2. **Chức năng Đặt Vé cho Khách hàng**
     - Khách hàng có thể đặt và thanh toán vé trực tuyến.
     - Thanh toán thành công sẽ được lưu trữ trong lịch sử giao dịch.
-      
+      ![Screenshot (69)](https://github.com/user-attachments/assets/aa5c9c46-8409-485a-861b-928126c1f788)
+![Screenshot (70)](https://github.com/user-attachments/assets/5c0d98b6-74e7-4544-96f7-ab527ba9d9fa)
+
 ---
