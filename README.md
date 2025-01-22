@@ -4,7 +4,8 @@
 Ứng dụng này cung cấp các chức năng quản lý toàn diện cho một hệ thống đặt vé, bao gồm các chức năng quản lý vé, phòng chiếu, phim, nhân viên, khách hàng, và các giao dịch. Ứng dụng được tổ chức thành nhiều phần chính, mỗi phần cung cấp các tính năng cụ thể.
 
 ## Tổng quan Menu
-![Uploading Screenshot (67).png…]()
+![Screenshot (67)](https://github.com/user-attachments/assets/31bfdd05-2c80-48bf-b2e0-ecf3cf812326)
+
 ### A. Quản lý
 
 1. **Quản lý Vé**
