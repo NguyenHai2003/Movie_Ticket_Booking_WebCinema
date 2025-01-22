@@ -30,7 +30,8 @@
 
 1. **Các thông tin mặc định**
     - Cho phéo khách hàng xem các thông tin mặc định như: trang chủ, phim đang chiếu, phim sắp chiếu,...
-      
+      ![image](https://github.com/user-attachments/assets/8949152a-5a7a-48c5-9d9c-10b4db3c1e56)
+
 2. **Chức năng Đặt Vé cho Khách hàng**
     - Khách hàng có thể đặt và thanh toán vé trực tuyến.
     - Thanh toán thành công sẽ được lưu trữ trong lịch sử giao dịch.
